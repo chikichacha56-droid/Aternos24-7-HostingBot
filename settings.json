@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "MultiLandGuard",
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "MultiLands.aternos.me",
+    "port": 58657,
     "version": "",
     "try-creative": false
   },
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to LuckyBoy!",
         "I like to play Minecraft!"
       ]
     },
